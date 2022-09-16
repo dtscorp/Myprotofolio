@@ -1,0 +1,18 @@
+nav {
+  background-color: #25316d;
+}
+
+a {
+  color: #fef5ac;
+}
+.jumbotron {
+  padding-top: 2rem;
+  background-color: #97d2ec;
+}
+#about {
+  background-color: #f3f4f5;
+}
+#project {
+  background-color: #5f6f94;
+  color: #f3f4f5;
+}
